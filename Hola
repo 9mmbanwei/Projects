@@ -1,3 +1,7 @@
+import java.util.scanner
+
 Public class(Hola) {
-Public Static Main
-System.out.println("Hello world"
+Public Static void main(String[] args) {
+System.out.println("Hello world")
+  }
+}
