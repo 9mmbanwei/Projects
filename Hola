@@ -1,2 +1,3 @@
-
+Public class(Hola) {
+Public Static Main
 System.out.println("Hello world"
